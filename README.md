@@ -1,4 +1,4 @@
-#<h2>Gian Arman E. Abergos</h2>
+#GIan Arman E. Abergos
 jeeyann.github.io
 	
  

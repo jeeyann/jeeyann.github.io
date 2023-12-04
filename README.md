@@ -1,4 +1,4 @@
-#GIan Arman E. Abergos
+#Gian Arman E. Abergos
 jeeyann.github.io
 	
  
